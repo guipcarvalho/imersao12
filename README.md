@@ -1,4 +1,4 @@
-# Imersão Fullcycle 2 - Codelivery
+# Imersão Fullcycle 12 - Codelivery
 ![Imersão Full Stack && Full Cycle](https://events-fullcycle.s3.amazonaws.com/events-fullcycle/static/site/img/grupo_4417.png)
 
 Participe gratuitamente: https://imersao.fullcycle.com.br/
@@ -15,4 +15,3 @@ As instruções de instalações estão no README.md de cada projeto.
 Nesta aula, o professor Luiz, explicou como conectar o Kafka nos microsserviços, então, criamos um vídeo explicando como fazer isso.
 
 [https://www.youtube.com/watch?v=XsngzcsdnXQ](https://www.youtube.com/watch?v=XsngzcsdnXQ)
-
